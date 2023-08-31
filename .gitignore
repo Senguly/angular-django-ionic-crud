@@ -155,5 +155,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-
+parse_git_log.py
+scripts
+static-server
